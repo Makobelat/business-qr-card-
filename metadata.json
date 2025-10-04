@@ -1,0 +1,7 @@
+{
+  "name": "QR Business Card",
+  "description": "A web application to create, manage, and share digital business cards via QR codes. Save multiple profiles, customize your card, and scan codes from others.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
